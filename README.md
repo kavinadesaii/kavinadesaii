@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kavinadesaii
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Pandas and Scikitlearn
+- 🌱 Analytics and consulting are my fields of interest.
 - 📫 How to reach me linkedin --> <a href="https://www.linkedin.com/in/kavina-desai-b3b77817b/">My Linkedin</a>
 
 
